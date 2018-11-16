@@ -17,8 +17,9 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+          Dev League
           </a>
+            <h3 className="react-test">Testing</h3>
         </header>
       </div>
     );
